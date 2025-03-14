@@ -103,7 +103,7 @@
 
 ## 技术支持
 
-- **问题反馈**：请提交Issue至[GitHub仓库](https://github.com/WillemCode/ScriptTools/issues)。
+- **问题反馈**：请提交Issue至[GitHub仓库](https://github.com/WillemCode/DomainPilot/issues)。
 
 ---
 
