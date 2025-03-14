@@ -1,4 +1,11 @@
 
+<h1 align="center">
+  <a href="https://github.com/WillemCode">
+    <img src="https://avatars.githubusercontent.com/u/203067186?v=4" width="150" height="150" alt="banner" /><br>
+  </a>
+</h1>
+  <p align="center">简体中文 | <a href="./docs/README.tc.md">繁体中文</a> | <a href="./docs/README.en.md">English</a> | <a href="./docs/README.ja.md">日本語</a><br></p>
+
 # DomainPilot
 
 **DomainPilot** 是一个基于 Bash 脚本的工具，用于自动化管理域名的 SSL 证书。该工具通过集成云 DNS 服务（如阿里云、华为云）进行域名验证，自动申请和安装 SSL 证书。脚本还支持证书续期、域名验证、备份和密钥管理等功能，并具备日志记录和错误处理功能，方便追踪操作。
